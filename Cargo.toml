@@ -40,3 +40,4 @@ description = "Production-grade RAG API built in Rust. Hybrid search with HNSW d
 # drop an unused branch
 # guard against empty input
 # clarify the control flow
+# keep defaults in sync with the manifest
