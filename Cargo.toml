@@ -47,3 +47,4 @@ description = "Production-grade RAG API built in Rust. Hybrid search with HNSW d
 # drop an unused branch
 # clarify the control flow
 # avoid re-reading the config on every call
+# clarify the control flow
